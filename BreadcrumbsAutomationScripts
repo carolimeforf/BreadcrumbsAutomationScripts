@@ -1,0 +1,31 @@
+BreadcrumbsAutomationScripts/
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   ├── feature_request.md
+│   └── workflows/
+│       └── ci.yml
+├── scripts/
+│   ├── data_processing/
+│   │   ├── process_data.py
+│   │   └── utils.py
+│   ├── web_scraping/
+│   │   ├── scrape_website.py
+│   │   └── parse_html.py
+│   └── automation/
+│       ├── automate_task.py
+│       └── schedule_tasks.py
+├── tests/
+│   ├── data_processing/
+│   │   ├── test_process_data.py
+│   │   └── test_utils.py
+│   ├── web_scraping/
+│   │   ├── test_scrape_website.py
+│   │   └── test_parse_html.py
+│   └── automation/
+│       ├── test_automate_task.py
+│       └── test_schedule_tasks.py
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
